@@ -6,7 +6,7 @@ android calandar
 
 Screenshots
 ===
- ![](https://github.com/wangguoihui/android_calendar/master/res/raw/screenshot_01.png)
+ ![](https://github.com/wangguoihui/android_calendar/blob/master/res/raw/screenshot_01.png)
 ===
 ![](https://github.com/wangguoihui/android_calendar/master/res/raw/screenshot_02.png)
 ===
