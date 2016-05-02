@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="tab_gray">#ABACAA</color>
+    <color name="tab_choosed">#54c0e6</color>
+    <color name="tab_unchoose">#959595</color>
+    <color name="blue">#0000FF</color>
+    <color name="bg_et">#ffffff</color>
+    <color name="bg_logon">#ffffff</color>
+    <color name="bg_btn_logon">#54c0e6</color>
+    <color name="logon_title_text">#54c0e6</color>
+    <color name="logon_line">#bbbbbb</color>
+    <color name="logon_try">#54c0e6</color>
+    <color name="btn_logon_text">#ffffff</color>
+    <color name="logon_edit_text">#444444</color>
+    <color name="et_text_color">#999999</color>
+    <color name="logon_copyright_text">#444444</color>
+    <color name="clue_bg">#e5e8ee</color>
+    <color name="clue_top_bg">#f6f7fb</color>
+    <color name="bg_tna">#F6F7FA</color>
+    <color name="line_gray">#cbcdd0</color>
+    <color name="triangle">#aa72d572</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="view_bg">#00000000</color>
+    <color name="circle">#aa738ffe</color>
+    <color name="rect">#aae84e40</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="black">#000000</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="roundColor_svprogresshuddefault">#e5e5e5</color>
+    <color name="roundProgressColor_svprogresshuddefault">@android:color/black</color>
+    <color name="textColor_svprogresshuddefault_msg">#000000</color>
+    <color name="item_background">#f4f4f4</color>
+    <color name="bule_onclick">#57c3ea</color>
+    <!-- 窗口背景颜色 -->
+    <color name="bgColor_svprogressdefaultview">@android:color/white</color>
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="bgColor_overlay_black">#95000000</color>
+    <color name="top_color">#f6f7fb</color>
+    <color name="black_semi_transparent">#ffffff</color>
+    <color name="background">#ffe5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white">#fFfFfF</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+    <color name="new_customer_pressed">#e1e4e9</color>
+    <color name="btn_pressed">#f4f4f4</color>
+    <color name="blue_normal">#48bfea</color>
+    <color name="blue_pressed">#33abda</color>
+
+    <color name="calendar_red">#fd6d4c</color>
+    <color name="cld_edit_text">#333333</color>
+
+    <color name="old_customer_list_divider">#e6e9ee</color>
+    <color name="old_customer_item_text">#999999</color>
+    <color name="old_customer_item_customerflag">#fd6d4c</color>
+    <color name="old_customer_item_text1">#333333</color>
+    <color name="old_customer_item_text2">#565656</color>
+    <color name="old_customer_item_text3">#54c0e6</color>
+    <color name="old_customer_item_text4">#444444</color>
+    <color name="old_customer_item_text5">#54c0e6</color>
+    <color name="old_customer_item_text6">#666666</color>
+    <color name="old_customer_bg">#40beec</color>
+    <color name="push_product_text1">#48bfea</color>
+    <color name="filter_bg_1">#f2f4f8</color>
+    <color name="filter_bg_2">#dbdfe2</color>
+    <color name="old_view_bg">#e1e4d9</color>
+    <color name="set_info">#eb5637</color>
+    <color name="pie_01">#ff7b5d</color>
+    <color name="pie_02">#ffcf48</color>
+    <color name="pie_03">#9fb661</color>
+    <color name="pie_04">#b49af0</color>
+    <color name="pie_05">#48bfea</color>
+    <color name="pie_bg">#F7BBBE</color>
+    <color name="attendance_head_bg">#656d79</color>
+    <color name="popup_bg">#71c4e5</color>
+    <color name="text_bg">#bcbfc3</color>
+
+    <color name="button_press">#f4f4f4</color>
+
+</resources>
